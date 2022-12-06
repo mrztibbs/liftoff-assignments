@@ -7,12 +7,24 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+We are creating an inventory management system for clients.
+
 ### Features
-Include Features here
+1. User Login
+2. Product Management
+3. Category Management
+4. Inventory Tracking
+5. Search Function
+
 ### Technologies
-Include Technologies here
+JavaScript
+HTML
+CSS
+Bootstrap
+MongoDB
+Java
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+1. MongoDB
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/5sdT7vkD/productpal
